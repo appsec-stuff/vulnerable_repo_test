@@ -12,7 +12,7 @@
     "lodash": "4.17.12",
     "@spscommerce/ds-react": "4.12.2",
     "jquery": "3.3.1",
-    "evershop": "0.9",
+    "openssl": "1.9.9",
     "debug": "2.6.8",
     "marked": "0.3.6",
     "express": "4.15.3",
