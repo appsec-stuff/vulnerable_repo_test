@@ -1,0 +1,20 @@
+{
+  "name": "vulnerability-test",
+  "version": "1.0.0",
+  "description": "A project with intentional vulnerabilities for Dependabot testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "4.17.10",
+    "jquery": "3.3.1",
+    "debug": "2.6.8",
+    "marked": "0.3.6",
+    "express": "4.15.3",
+    "moment": "2.18.1",
+    "axios": "0.18.0"
+  }
+}
