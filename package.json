@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "4.17.12",
+    "ds-react" "4.12.2",
     "jquery": "3.3.1",
     "debug": "2.6.8",
     "marked": "0.3.6",
